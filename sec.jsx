@@ -2117,7 +2117,7 @@ const Sec = () => {
                   {userProfile?.stats?.totalQuests || 0}
                 </p>
               </div>
-              <div className="bg-gray-900/50 rounded-xl p-3"                <p className="text-sm text-gray-400">Quests Completed</p>
+              <div className="bg-gray-900/50 rounded-xl p-3">                <p className="text-sm text-gray-400">Quests Completed</p>
                 <p className="text-2xl font-bold">
                   {userProfile?.stats?.completedQuests || 0}
                 </p>
